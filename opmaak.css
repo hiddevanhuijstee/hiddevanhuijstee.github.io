@@ -1,11 +1,11 @@
 ul {
-width: 200;
-   background-color:burlywood
+   width: 200px;
+   background-color:burlywood;
 
 }
 li a {
    display: block;
-color: brown;
-padding: 8px 16px;
-text-decoration: none;
+   color: brown;
+   padding: 8px 16px;
+   text-decoration: none;
 }
