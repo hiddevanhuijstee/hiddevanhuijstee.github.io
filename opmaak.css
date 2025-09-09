@@ -1,8 +1,10 @@
 ul {
    width: 200px;
    background-color:burlywood;
-
+   margin: 0;
+   padding: 0;
 }
+
 li a {
    display: block;
    color: brown;
