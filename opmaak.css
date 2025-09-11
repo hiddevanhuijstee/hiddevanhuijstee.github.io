@@ -25,13 +25,15 @@ h1 {
    text-align: center;
 }
 p {
-   margin-left: 300px
-
+   margin-left: 300px;
+   padding: 100px;
+   
 }
+
 header {
    background-color: burlywood;
    text-align: center;
    padding: 50px;
    margin-top: 0;
-   font-size: larger;
+   font-size: 200px;
 }
