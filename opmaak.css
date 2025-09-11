@@ -26,3 +26,8 @@ h1 {
 p {
    margin-left: 100x;
 }
+div.header {
+   background-color: burlywood;
+   text-align: center;
+   padding: 10px;
+}
