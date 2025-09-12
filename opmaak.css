@@ -35,6 +35,8 @@ h1 {
 p {
    margin-left: 300px;
    padding: 100px;
+   background-color: aqua;
+   border-radius: 0;
    
 }
 
