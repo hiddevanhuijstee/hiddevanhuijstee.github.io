@@ -59,4 +59,10 @@ h2 {
    margin-left: 200px;
    color: white;
    background-color: black;
+   padding: 50px;
+}
+
+video {
+
+   float: right;
 }
