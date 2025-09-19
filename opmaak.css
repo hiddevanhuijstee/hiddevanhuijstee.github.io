@@ -50,3 +50,7 @@ header {
 body {
 background-color: rgb(240, 234, 228);
 }
+
+h1 {
+   margin-left: 200px;
+}
