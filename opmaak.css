@@ -44,11 +44,11 @@ p {
 
 header {
    background-color: rgb(238, 230, 221);
-   text-align: none;
+   text-align: center;
    padding: 50px;
    margin-top: 0;
    font-size: 50px;
-   margin-left: 500px;
+
 }
 body {
 background-color: rgb(240, 234, 228);
