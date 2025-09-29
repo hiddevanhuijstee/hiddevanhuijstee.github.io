@@ -130,7 +130,7 @@ margin-left: 600px;
 
 .filmpjecompressie {
 margin-left: 600px;
-font-size: 40px;
+font-size: 30px;
 
 }
  footer {
@@ -146,4 +146,14 @@ font-size: 40px;
 
    margin-left: 600px;
    
+ }
+
+ .headerkleurmodellen {
+   margin-left: 600px;
+ }
+
+ .filmpjekleurmodellen {
+
+   margin-left: 600px;
+   font-size: 30px;
  }
