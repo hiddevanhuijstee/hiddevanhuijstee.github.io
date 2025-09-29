@@ -135,6 +135,11 @@ font-size: 40px;
 }
  footer {
    text-align: center;
+   position: fixed;
+   margin-bottom: 0px; 
+   font-size: 25px;
+   background-color: white;
+
  }
 
  .headercompressie {
