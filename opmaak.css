@@ -12,7 +12,7 @@ ul {
    opacity: 1;
    font-size: 20px;
    border-right: 2px solid black;
-}
+} /*ik heb de height 100% gemaakt zodat deze de hele pagina lang is en nietn opeens ophoud en overflow auto zodat je de achtergornd van andere dingen er niet door heen ziet. position fixed zodat dee niet mee beweegt als je scrollt. opacity 1 odat het er beter uitziet. en border right zwart voor de zwarte lijn tussen de tekste en mijn menu.*/
 
 li a {
    display: block;
@@ -21,14 +21,14 @@ li a {
    text-decoration: none;
    text-align: center;
    width: 300px;
-}
+} /*display block zodat de menu vakjes een block zijn */
 
 li a:hover{
    background-color: rgb(0, 0, 0);
    color: rgb(232, 225, 225);  
    font-size: 20px;
    height: 20px;
-}
+}  /*Deze is gemaakt zodat wanneer je er met je muis over de blockjes in het menu gaat dee zwarte worden en de tekst wit*/
 
 
 
@@ -41,7 +41,7 @@ p {
    font-size: 25px;
    width:500px;
    
-}
+} /*de tekst staat in het midden en maar 500 px breed omdat ik dit het zelf zo het mooist er uit vond zien*/
 
 header {
    background-color: rgb(238, 230, 221);
@@ -51,7 +51,7 @@ header {
    font-size: 50px;
    font-weight: bold;
 
-}
+} /*Ik heb de padding gebruikt om het meer naar boven te laten komen dan bij de normale achtergrond en ook een iets andere kleur gemaakt. Ik heb bold gebruikt om de tekst dik gedrukt te maken en magrin top 0 odat het boven aan blijft staan.*/
 body {
 background-color: rgb(240, 234, 228);
 }
@@ -66,25 +66,21 @@ h2 {
 
 }
 
-video {
 
-   float: right;
-}
-img {
-   float: right;
-}
+
+
 h3 {
 
 
    font-size: 40px;
    margin-left: 600px;
-}
+} /*Ik heb dit gebruikt omdat ik niet wist hoe classen werkte en later geen tijd meer had om dit te veranderen*/
 
 h4 {
 
     font-size: 35px;
    margin-left: 600px;
-}
+} /*Ik heb dit gebruikt omdat ik niet wist hoe classen werkte en later geen tijd had om dit terug te veranderen*/
 
    
 
@@ -141,7 +137,7 @@ font-size: 30px;
    background-color: white;
 margin-left: 600px;
 
- }
+ } /*Ik heb de footer wit gemaakt en de tekst in het midden laten staan door text aligan center en 600px gedaan zodat deze mooi is met de andere tekst */
 
  .headercompressie {         
 
