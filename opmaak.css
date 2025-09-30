@@ -136,7 +136,7 @@ font-size: 30px;
    width: 100%;
    font-size: 25px;
    background-color: white;
-   margin-left: 600px;
+
    display: flex;  /*dit is dat de footer mee beweegt als je scrollt*/
    justify-content: center;  /*dit is zodat het in het midden staat*/
  } /*Ik heb de footer wit gemaakt en de tekst in het midden laten staan door text aligan center en 600px gedaan zodat deze mooi is met de andere tekst */
@@ -168,3 +168,15 @@ img
 } 
  /*ik heb margin left 600 px gedaan omdat deze er dan mooi onder de tekst staat*/
  
+
+.teksthome {
+   
+
+
+
+ 
+
+
+
+}
+
