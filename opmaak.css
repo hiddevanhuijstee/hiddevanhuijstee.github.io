@@ -186,6 +186,6 @@ margin-left: 400px;
    display: flex;
    justify-content: center;
    align-items: stretch;
-   gap: 20px;
+   gap: 0px;
 }
 /*dit is zodat de het plaatje en de afbeelding naast elkaar komen te staan*/
