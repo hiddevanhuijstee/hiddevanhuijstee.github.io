@@ -168,24 +168,3 @@ img
 } 
  /*ik heb margin left 600 px gedaan omdat deze er dan mooi onder de tekst staat*/
  
-
-.side-by-side p {
-  flex: 1; 
-max-width: 550px;
-margin: 0;
-padding: 20px;
-box-sizing: border-box;
-text-align: left;
-margin-left: 400px;
- 
-
-}
-.side-by-side {
-
-
-   display: flex;
-   justify-content: center;
-   align-items: stretch;
-   gap: 0px;
-}
-/*dit is zodat de het plaatje en de afbeelding naast elkaar komen te staan*/
