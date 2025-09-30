@@ -152,7 +152,7 @@ margin-left: 600px;
  .filmpjekleurmodellen {
 
    margin-left: 600px; /
-   font-size: 30px;
+font-size: 30px;
  } 
  
 /* Ik heb elke keer een nieuwe regel header gemaakt per filmpje omdat ik deze misschien later nog wilde aan passen wat uiteindelijk niet is gebeurd daarom zijn er steeds nieuwe header per filmpje */
@@ -161,5 +161,6 @@ img
 {
 
    margin-left: 600px;
-}  /*ik heb margin left 600 px gedaan omdat deze er dan mooi onder de tekst staat*/
+} 
+ /*ik heb margin left 600 px gedaan omdat deze er dan mooi onder de tekst staat*/
  
