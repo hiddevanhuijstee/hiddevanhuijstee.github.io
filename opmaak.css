@@ -109,11 +109,9 @@ margin-left: 400px;
 
 }
 
-.centeredvideo-section {
-
-
-   text-align: center
-   
+.centered {
+   margin: 20px auto;  /* magre en centreren*/
+   text-align: center; /*text in het midden*/
 }
 
 .filmpjebinairstelsel {
@@ -153,8 +151,8 @@ font-size: 30px;
 
  .filmpjekleurmodellen {
 
-   margin-left: 600px; 
-font-size: 30px;
+   
+
  } 
  
 /* Ik heb elke keer een nieuwe regel header gemaakt per filmpje omdat ik deze misschien later nog wilde aan passen wat uiteindelijk niet is gebeurd daarom zijn er steeds nieuwe header per filmpje */
